@@ -5,7 +5,6 @@ I'm **Groovy Mark**, a passionate Cybersecurity Enthusiast and Bug Hunter. With 
 ## Knowledge & Skills
 
 <p>
-<img src="https://img.shields.io/badge/BURP_SUITE-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
 <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C">
 <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
@@ -24,4 +23,5 @@ I'm **Groovy Mark**, a passionate Cybersecurity Enthusiast and Bug Hunter. With 
 <p>
 <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032">
 <img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
+<img src="https://img.shields.io/badge/BURP_SUITE-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
 </p>
