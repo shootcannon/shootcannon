@@ -17,7 +17,7 @@ I'm **Groovy Mark**, a passionate Cybersecurity Enthusiast and Bug Hunter. With 
 <p>
 <img src="https://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420">
 <img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=557C94">
-<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FCC624">
+<!-- <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FCC624"> -->
 </p>
 
 <p>
