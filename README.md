@@ -2,11 +2,10 @@
 
 I'm **Groovy Mark**, a passionate Cybersecurity Enthusiast and Bug Hunter. With a deep interest in technology, I focus on discovering vulnerabilities and continuously improving my skills in programming and security research. My goal is to contribute to a safer digital world by learning, building, and sharing knowledge with the community.
 
-<br>
-
 ## Knowledge & Skills
 
 <p>
+<img src="https://img.shields.io/badge/BURP_SUITE-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
 <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C">
 <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
